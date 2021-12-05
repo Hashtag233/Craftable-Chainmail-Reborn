@@ -41,7 +41,7 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.17.1",
+    "currentGenerator": "forge-1.16.5",
     "credits": "Hashtag233",
     "modElementsPackage": "hashmod.craftablechainmail",
     "lockBaseModFiles": false
