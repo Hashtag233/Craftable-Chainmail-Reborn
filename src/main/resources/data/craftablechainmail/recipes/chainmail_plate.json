@@ -1,0 +1,15 @@
+{
+    "result": {
+        "item": "craftablechainmail:chainmail_plate"
+    },
+    "pattern": [
+        "nn",
+        "nn"
+    ],
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "n": {
+            "tag": "forge:nuggets/iron"
+        }
+    }
+}
